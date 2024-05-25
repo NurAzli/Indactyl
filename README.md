@@ -1,7 +1,7 @@
-# :bird: pterodactyl-installer
+# :bird: indactyl-installer
 
-![Test Panel](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/panel.yml/badge.svg)
-![Test Wings](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/wings.yml/badge.svg)
+![Test Panel](https://github.com/indactyl-installer/indactyl-installer/actions/workflows/panel.yml/badge.svg)
+![Test Wings](https://github.com/indactyl-installer/indactyl-installer/actions/workflows/wings.yml/badge.svg)
 ![Shellcheck](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/shellcheck.yml/badge.svg)
 [![License: GPL v3](https://img.shields.io/github/license/pterodactyl-installer/pterodactyl-installer)](LICENSE)
 [![Discord](https://img.shields.io/discord/682342331206074373?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://pterodactyl-installer.se/discord)
