@@ -41,6 +41,7 @@ List of supported installation setups for panel and Wings (installations support
 |                  | 10      | :white_check_mark: | 8.1         |
 |                  | 11      | :white_check_mark: | 8.1         |
 |                  | 12      | :white_check_mark: | 8.1         |
+| DuckLinux        | 8       | :red_circle: | In build.   |
 | CentOS           | 6       | :red_circle:       |             |
 |                  | 7       | :red_circle: \*    |             |
 |                  | 8       | :red_circle: \*    |             |
